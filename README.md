@@ -1,2 +1,2 @@
-# moodle-razorpay-payment-plugin
-This plugin provides Razorpay payment gateway integration for moodle
+# moodle-sbiepay-payment-plugin
+This plugin provides SBI ePay payment gateway integration for Moodle
